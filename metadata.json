@@ -1,0 +1,5 @@
+{
+  "name": "Mobile Auth Node App",
+  "description": "A Node.js application for mobile number authentication with Docker support.",
+  "requestFramePermissions": []
+}
